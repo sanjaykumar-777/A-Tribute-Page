@@ -1,0 +1,74 @@
+
+.Title{
+    background-color: lightgrey;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250;
+  }
+
+ 
+
+#topic{
+    text-align: center;
+    font-family: fantasy;
+} 
+
+#year{
+    text-align: center;
+}
+.text{
+    text-align: center;
+    
+    
+}
+.bio{
+    text-align: center;
+    border: solid;
+}
+#desc{
+    text-align: justify;
+    font-size: large;
+}
+
+.achievement{
+    text-align:center;
+}
+.movies{
+    text-align: center;
+}
+.imageColumn {
+    float: left;
+   
+    
+    
+ }
+ .foot{
+     font-family: cursive;
+     text-align: end;
+     margin-right: 20px;
+ }
+ #ssr{
+     font-weight: lighter;
+ }
+
+ #ever{
+     text-align: center;
+ }
+#astropara{
+    font-weight: bolder;
+    text-align: center;
+    border: solid gray;
+    border-width: 5px;
+}
+#glance2{
+    margin-left: 400px;
+    border: solid gray;
+    
+}
+#glance1{
+    margin-left: 100px;
+    border: solid gray;
+}
